@@ -1,0 +1,16 @@
+{
+  "name": "listMyAPI",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^2.7.0",
+    "mongojs": "^0.12.1",
+    "cli-table": "^0.3.0"
+  }
+}
